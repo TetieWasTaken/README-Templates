@@ -1,9 +1,4 @@
 # This is not a template. Find gitignore templates at https://github.com/github/gitignore
 
-# Workflows
-update_readme.py
-update_template.py
-template.txt
-
 # Mac
 .DS_Store

@@ -1,0 +1,18 @@
+name: Update Readme
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Readme
+        run: python update_readme.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: README auto commit
+          add_files: "README.md"

@@ -12,7 +12,8 @@ jobs:
       - uses: actions/checkout@v3
       - name: Update Readme
         run: python update_readme.py
+        run: python update_template.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: README auto commit
+          commit_message: auto commit
           add_files: "README.md"

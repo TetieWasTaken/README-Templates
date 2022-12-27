@@ -1,6 +1,8 @@
-# [Contributing template](https://github.com/UndefinedToast/README-Templates/EN/Contributing/guidelines.md)
+# Contributing template
 
-This template is licensed under the [MIT license](https://github.com/UndefinedToast/README-Templates/blob/main/LICENSE). Feel free to use it in your own projects.
+This template is licensed under the [MIT license](https://choosealicense.com/licenses/mit/). Feel free to use it in your own projects, as long as it includes [a link to this repository's license](https://github.com/UndefinedToast/README-Templates/blob/main/LICENSE).
+
+<!--Start template-->
 
 # Guidelines
 
@@ -25,3 +27,5 @@ Thank you for following these guidelines! We appreciate your contribution and lo
 ## Code of Conduct
 
 [Insert your code of conduct here.]
+
+<!--End template>

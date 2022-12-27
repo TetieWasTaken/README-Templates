@@ -1,6 +1,8 @@
-# [Contributing template](https://github.com/UndefinedToast/README-Templates/EN/Contributing/instructions.md)
+# Contributing template
 
 This template is licensed under the [MIT license](https://choosealicense.com/licenses/mit/). Feel free to use it in your own projects, as long as it includes [a link to this repository's license](https://github.com/UndefinedToast/README-Templates/blob/main/LICENSE).
+
+<!--Start template-->
 
 # Contributing guidelines
 
@@ -25,3 +27,5 @@ To contribute to this repository, follow these steps:
 7. **Create a pull request**: Finally, you can create a pull request to request that your changes be merged into the original repository. A pull request is a request to merge the changes in your repository into the original repository. To create a pull request, go to the repository page on GitHub and click the "Compare & pull request" button. Follow the prompts to create and submit the pull request.
 
 We will review your pull request and decide whether to merge the changes into the main codebase.
+
+<!--End template>

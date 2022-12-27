@@ -1,6 +1,6 @@
 # Contributing template
 
-This template is licensed under the [MIT license](https://choosealicense.com/licenses/mit/). Feel free to use it in your own projects, as long as it includes [a link to this repository's license](https://github.com/UndefinedToast/README-Templates/blob/main/LICENSE).
+This template is licensed under the [MIT license](https://choosealicense.com/licenses/mit/). Feel free to use it in your own projects without any limitations.
 
 <!--Start template-->
 

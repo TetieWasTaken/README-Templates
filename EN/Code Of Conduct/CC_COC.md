@@ -1,3 +1,9 @@
+# Contributor Covenant COC
+
+This template is licensed under the [MIT license](https://choosealicense.com/licenses/mit/). Feel free to use it in your own projects without any limitations.
+
+<!--Start template-->
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -70,3 +76,5 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
+
+<!--End template>

@@ -84,7 +84,7 @@ SOFTWARE.
 [Back to top](#table-of-contents)
 
 <!--Templates start-->
-# Templates (7 total)
+# Templates (13 total)
 ## [Code Of Conduct](EN/Code%20Of%20Conduct)
 * [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
 * [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
@@ -94,4 +94,11 @@ SOFTWARE.
 ## [Contributing](EN/Contributing)
 * [guidelines](EN/Contributing/guidelines.md)
 * [instructions](EN/Contributing/instructions.md)
+## [Installation](EN/Installation)
+* [apt](EN/Installation/apt.md)
+* [brew](EN/Installation/brew.md)
+* [gem](EN/Installation/gem.md)
+* [gitclone](EN/Installation/gitclone.md)
+* [nodejs](EN/Installation/nodejs.md)
+* [pip](EN/Installation/pip.md)
 <!--Templates end-->

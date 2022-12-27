@@ -1,9 +1,9 @@
-name: run on MD file commit
+name: Update template
 
 on:
   push:
-    paths:
-      - "*.md"
+    branches:
+      - main
 
 jobs:
   run-script:

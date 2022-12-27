@@ -2,10 +2,8 @@ import os
 from urllib.parse import quote
 import re
 
-
 def regexReplace(string, search, replacement):
     return re.compile(search).sub(replacement, string)
-
 
 templateCount = 0
 templatesText = ""

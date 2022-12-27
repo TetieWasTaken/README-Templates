@@ -1,0 +1,17 @@
+name: run on MD file commit
+
+on:
+  push:
+    paths:
+      - "*.md"
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Readme
+        run: python update_template.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: TEMPLATE auto commit

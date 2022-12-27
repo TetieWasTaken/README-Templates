@@ -1,6 +1,10 @@
-# Twitter COC
+<!--Title start-->
+
+# Twitter COC template
 
 This template is licensed under the [MIT license](https://choosealicense.com/licenses/mit/). Feel free to use it in your own projects without any limitations.
+
+<!--Title end-->
 
 <!--Start template-->
 

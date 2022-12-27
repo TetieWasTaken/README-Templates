@@ -84,11 +84,8 @@ SOFTWARE.
 [Back to top](#table-of-contents)
 
 <!--Templates start-->
-
 # Templates (2 total)
-
 ## [Contributing](EN/Contributing)
-
-- [guidelines](EN/Contributing/guidelines.md)
-- [instructions](EN/Contributing/instructions.md)
+* [guidelines](EN/Contributing/guidelines.md)
+* [instructions](EN/Contributing/instructions.md)
 <!--Templates end-->

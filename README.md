@@ -84,7 +84,13 @@ SOFTWARE.
 [Back to top](#table-of-contents)
 
 <!--Templates start-->
-# Templates (2 total)
+# Templates (7 total)
+## [Code Of Conduct](EN/Code%20Of%20Conduct)
+* [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
+* [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
+* [p5js_COC](EN/Code%20Of%20Conduct/p5js_COC.md)
+* [PyCon_COC](EN/Code%20Of%20Conduct/PyCon_COC.md)
+* [Twitter_COC](EN/Code%20Of%20Conduct/Twitter_COC.md)
 ## [Contributing](EN/Contributing)
 * [guidelines](EN/Contributing/guidelines.md)
 * [instructions](EN/Contributing/instructions.md)

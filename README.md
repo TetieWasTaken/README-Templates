@@ -17,7 +17,7 @@ This README file is not a template! However, it is mostly made out of templates 
    1. [Guidelines](#guidelines)
       1. [Code Of Conduct](#code-of-conduct)
 2. [License](#license)
-3. [Templates](#templates-2-total)
+3. [Templates](#code-of-conduct-1)
 
 # Contributing
 
@@ -82,6 +82,18 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Back to top](#table-of-contents)
+
+# How to use templates
+To use any template, you can follow these steps;
+
+1. Choose a template that you would like to use by navigating through the [contents header](#code-of-conduct-1) below.
+2. Copy the contents of the template file by selecting all of the text and using the `Ctrl + C` shortcut (or `Command + C` on a Mac).
+3. Open the file in which you would like to use the template, and place your cursor at the location where you want the template to be inserted.
+4. Use the `Ctrl + V` shortcut (or `Command + V` on a Mac) to paste the contents of the template into your markdown file.
+5. Edit the template to fit your needs by replacing placeholders (such as `{package}` or `{username}`) with the appropriate values.
+6. Save the file to apply the changes.
+
+![](https://github.com/UndefinedToast/README-Templates/blob/main/template_tutorial.gif)
 
 <!--Templates start-->
 # Templates (19 total)

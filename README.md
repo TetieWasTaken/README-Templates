@@ -84,7 +84,7 @@ SOFTWARE.
 [Back to top](#table-of-contents)
 
 <!--Templates start-->
-# Templates (13 total)
+# Templates (19 total)
 ## [Code Of Conduct](EN/Code%20Of%20Conduct)
 * [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
 * [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
@@ -92,6 +92,7 @@ SOFTWARE.
 * [PyCon_COC](EN/Code%20Of%20Conduct/PyCon_COC.md)
 * [Twitter_COC](EN/Code%20Of%20Conduct/Twitter_COC.md)
 ## [Contributing](EN/Contributing)
+* [combined_contributing](EN/Contributing/combined_contributing.md)
 * [guidelines](EN/Contributing/guidelines.md)
 * [instructions](EN/Contributing/instructions.md)
 ## [Installation](EN/Installation)
@@ -101,4 +102,10 @@ SOFTWARE.
 * [gitclone](EN/Installation/gitclone.md)
 * [nodejs](EN/Installation/nodejs.md)
 * [pip](EN/Installation/pip.md)
+## [Profile readme](EN/Profile%20readme)
+* [aboutme](EN/Profile%20readme/aboutme.md)
+* [code_aboutme](EN/Profile%20readme/code_aboutme.md)
+* [combined_profile](EN/Profile%20readme/combined_profile.md)
+* [generic](EN/Profile%20readme/generic.md)
+* [stats](EN/Profile%20readme/stats.md)
 <!--Templates end-->

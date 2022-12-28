@@ -98,7 +98,7 @@ To use any template, you can follow these steps;
 ![](https://github.com/UndefinedToast/README-Templates/blob/main/template_tutorial.gif)
 
 <!--Templates start-->
-# Templates (25 total)
+# Templates (26 total)
 ## [Code Of Conduct](EN/Code%20Of%20Conduct)
 * [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
 * [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
@@ -123,6 +123,7 @@ To use any template, you can follow these steps;
 * [GNU_AGPLv3](EN/Licenses/GNU_AGPLv3.md)
 * [MIT](EN/Licenses/MIT.md)
 * [MPL_v2](EN/Licenses/MPL_v2.md)
+* [unlicense](EN/Licenses/unlicense.md)
 ## [Profile readme](EN/Profile%20readme)
 * [aboutme](EN/Profile%20readme/aboutme.md)
 * [code_aboutme](EN/Profile%20readme/code_aboutme.md)

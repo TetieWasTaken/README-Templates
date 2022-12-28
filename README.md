@@ -17,7 +17,8 @@ This README file is not a template! However, it is mostly made out of templates 
    1. [Guidelines](#guidelines)
       1. [Code Of Conduct](#code-of-conduct)
 2. [License](#license)
-3. [Templates](#code-of-conduct-1)
+3. [How to use](#how-to-use-templates)
+4. [Templates](#code-of-conduct-1)
 
 # Contributing
 
@@ -84,6 +85,7 @@ SOFTWARE.
 [Back to top](#table-of-contents)
 
 # How to use templates
+
 To use any template, you can follow these steps;
 
 1. Choose a template that you would like to use by navigating through the [contents header](#code-of-conduct-1) below.
@@ -96,7 +98,7 @@ To use any template, you can follow these steps;
 ![](https://github.com/UndefinedToast/README-Templates/blob/main/template_tutorial.gif)
 
 <!--Templates start-->
-# Templates (19 total)
+# Templates (25 total)
 ## [Code Of Conduct](EN/Code%20Of%20Conduct)
 * [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
 * [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
@@ -114,6 +116,13 @@ To use any template, you can follow these steps;
 * [gitclone](EN/Installation/gitclone.md)
 * [nodejs](EN/Installation/nodejs.md)
 * [pip](EN/Installation/pip.md)
+## [Licenses](EN/Licenses)
+* [apache_v2](EN/Licenses/apache_v2.md)
+* [BSL_v1](EN/Licenses/BSL_v1.md)
+* [CC_BY_SA4](EN/Licenses/CC_BY_SA4.md)
+* [GNU_AGPLv3](EN/Licenses/GNU_AGPLv3.md)
+* [MIT](EN/Licenses/MIT.md)
+* [MPL_v2](EN/Licenses/MPL_v2.md)
 ## [Profile readme](EN/Profile%20readme)
 * [aboutme](EN/Profile%20readme/aboutme.md)
 * [code_aboutme](EN/Profile%20readme/code_aboutme.md)

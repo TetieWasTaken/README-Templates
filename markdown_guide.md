@@ -301,12 +301,12 @@ You can enclose an URL or email adress in angle brackets to make it a link.
 
 To use images in your markdown file, you can use the `![alt text](local file path or link)` syntax.
 
-![Partially submerged Samanea saman](https://upload.wikimedia.org/wikipedia/commons/7/7b/Flooded_Albizia_Saman_%28rain_tree%29_in_the_Mekong.jpg)
+![A panorama of 4 segments of an Amsterdam Canal in summer.](https://upload.wikimedia.org/wikipedia/commons/3/37/Amsterdam_Canals_-_July_2006.jpg)
 
-<!--Basile Morin, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons-->
+###### [Photo](https://commons.wikimedia.org/wiki/Category:Featured_pictures_of_Amsterdam#/media/File:Amsterdam_Canals_-_July_2006.jpg) by David Iliff, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
 ```
-![Partially submerged Samanea saman](https://upload.wikimedia.org/wikipedia/commons/7/7b/Flooded_Albizia_Saman_%28rain_tree%29_in_the_Mekong.jpg)
+![A panorama of 4 segments of an Amsterdam Canal in summer.](https://upload.wikimedia.org/wikipedia/commons/3/37/Amsterdam_Canals_-_July_2006.jpg)
 ```
 
 # Sources

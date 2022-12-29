@@ -18,23 +18,23 @@ Title end-->
 
 ### Minimum
 
-**Operating system:** `{Required OS}`
-**Processor:** `{Processor}`
-**Memory:** `{number} GB RAM`
-**Graphics card:** `{Graphics card}`
-**Network:** `{Network}`
-**Available storage:** `{number} GB Storage`
+**Operating system:** `{Required OS}`  
+**Processor:** `{Processor}`  
+**Memory:** `{number} GB RAM`  
+**Graphics card:** `{Graphics card}`  
+**Network:** `{Network}`  
+**Available storage:** `{number} GB Storage`  
 
 ---
 
 ### Recommended
 
-**Operating system:** `{Required OS}`
-**Processor:** `{Processor}`
-**Memory:** `{number} GB RAM`
-**Graphics card:** `{Graphics card}`
-**Network:** `{Network}`
-**Available storage:** `{number} GB Storage`
+**Operating system:** `{Required OS}`  
+**Processor:** `{Processor}`  
+**Memory:** `{number} GB RAM`  
+**Graphics card:** `{Graphics card}`  
+**Network:** `{Network}`  
+**Available storage:** `{number} GB Storage`  
 
 </details>
 
@@ -44,23 +44,23 @@ Title end-->
 
 ### Minimum
 
-**Operating system:** `{Required OS}`
-**Processor:** `{Processor}`
-**Memory:** `{number} GB RAM`
-**Graphics card:** `{Graphics card}`
-**Network:** `{Network}`
-**Available storage:** `{number} GB Storage`
+**Operating system:** `{Required OS}`  
+**Processor:** `{Processor}`  
+**Memory:** `{number} GB RAM`  
+**Graphics card:** `{Graphics card}`  
+**Network:** `{Network}`  
+**Available storage:** `{number} GB Storage`  
 
 ---
 
 ### Recommended
 
-**Operating system:** `{Required OS}`
-**Processor:** `{Processor}`
-**Memory:** `{number} GB RAM`
-**Graphics card:** `{Graphics card}`
-**Network:** `{Network}`
-**Available storage:** `{number} GB Storage`
+**Operating system:** `{Required OS}`  
+**Processor:** `{Processor}`  
+**Memory:** `{number} GB RAM`  
+**Graphics card:** `{Graphics card}`  
+**Network:** `{Network}`  
+**Available storage:** `{number} GB Storage`  
 
 </details>
 
@@ -70,23 +70,23 @@ Title end-->
 
 ### Minimum
 
-**Operating system:** `{Required OS}`
-**Processor:** `{Processor}`
-**Memory:** `{number} GB RAM`
-**Graphics card:** `{Graphics card}`
-**Network:** `{Network}`
-**Available storage:** `{number} GB Storage`
+**Operating system:** `{Required OS}`  
+**Processor:** `{Processor}`  
+**Memory:** `{number} GB RAM`  
+**Graphics card:** `{Graphics card}`  
+**Network:** `{Network}`  
+**Available storage:** `{number} GB Storage`  
 
 ---
 
 ### Recommended
 
-**Operating system:** `{Required OS}`
-**Processor:** `{Processor}`
-**Memory:** `{number} GB RAM`
-**Graphics card:** `{Graphics card}`
-**Network:** `{Network}`
-**Available storage:** `{number} GB Storage`
+**Operating system:** `{Required OS}`  
+**Processor:** `{Processor}`  
+**Memory:** `{number} GB RAM`  
+**Graphics card:** `{Graphics card}`  
+**Network:** `{Network}`  
+**Available storage:** `{number} GB Storage`  
 
 </details>
 

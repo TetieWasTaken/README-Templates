@@ -126,62 +126,47 @@ To use any template, you can follow these steps;
 ![](https://github.com/UndefinedToast/README-Templates/blob/main/template_tutorial.gif)
 
 <!--Templates start-->
-
 # Templates (35 total)
-
 ## [Code Of Conduct](EN/Code%20Of%20Conduct)
-
-- [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
-- [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
-- [p5js_COC](EN/Code%20Of%20Conduct/p5js_COC.md)
-- [PyCon_COC](EN/Code%20Of%20Conduct/PyCon_COC.md)
-- [Twitter_COC](EN/Code%20Of%20Conduct/Twitter_COC.md)
-
+* [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
+* [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
+* [p5js_COC](EN/Code%20Of%20Conduct/p5js_COC.md)
+* [PyCon_COC](EN/Code%20Of%20Conduct/PyCon_COC.md)
+* [Twitter_COC](EN/Code%20Of%20Conduct/Twitter_COC.md)
 ## [Contributing](EN/Contributing)
-
-- [combined_contributing](EN/Contributing/combined_contributing.md)
-- [guidelines](EN/Contributing/guidelines.md)
-- [instructions](EN/Contributing/instructions.md)
-
+* [combined_contributing](EN/Contributing/combined_contributing.md)
+* [guidelines](EN/Contributing/guidelines.md)
+* [instructions](EN/Contributing/instructions.md)
 ## [Installation](EN/Installation)
-
-- [apt](EN/Installation/apt.md)
-- [brew](EN/Installation/brew.md)
-- [gem](EN/Installation/gem.md)
-- [gitclone](EN/Installation/gitclone.md)
-- [nodejs](EN/Installation/nodejs.md)
-- [pip](EN/Installation/pip.md)
-
+* [apt](EN/Installation/apt.md)
+* [brew](EN/Installation/brew.md)
+* [gem](EN/Installation/gem.md)
+* [gitclone](EN/Installation/gitclone.md)
+* [nodejs](EN/Installation/nodejs.md)
+* [pip](EN/Installation/pip.md)
 ## [Licenses](EN/Licenses)
-
-- [apache_v2](EN/Licenses/apache_v2.md)
-- [BSL_v1](EN/Licenses/BSL_v1.md)
-- [CC_BY_SA4](EN/Licenses/CC_BY_SA4.md)
-- [GNU_AGPLv3](EN/Licenses/GNU_AGPLv3.md)
-- [MIT](EN/Licenses/MIT.md)
-- [MPL_v2](EN/Licenses/MPL_v2.md)
-- [unlicense](EN/Licenses/unlicense.md)
-
+* [apache_v2](EN/Licenses/apache_v2.md)
+* [BSL_v1](EN/Licenses/BSL_v1.md)
+* [CC_BY_SA4](EN/Licenses/CC_BY_SA4.md)
+* [GNU_AGPLv3](EN/Licenses/GNU_AGPLv3.md)
+* [MIT](EN/Licenses/MIT.md)
+* [MPL_v2](EN/Licenses/MPL_v2.md)
+* [unlicense](EN/Licenses/unlicense.md)
 ## [Profile readme](EN/Profile%20readme)
-
-- [aboutme](EN/Profile%20readme/aboutme.md)
-- [code_aboutme](EN/Profile%20readme/code_aboutme.md)
-- [combined_profile](EN/Profile%20readme/combined_profile.md)
-- [generic](EN/Profile%20readme/generic.md)
-- [icons](EN/Profile%20readme/icons.md)
-- [stats](EN/Profile%20readme/stats.md)
-
+* [aboutme](EN/Profile%20readme/aboutme.md)
+* [code_aboutme](EN/Profile%20readme/code_aboutme.md)
+* [combined_profile](EN/Profile%20readme/combined_profile.md)
+* [generic](EN/Profile%20readme/generic.md)
+* [icons](EN/Profile%20readme/icons.md)
+* [stats](EN/Profile%20readme/stats.md)
 ## [Sponsoring](EN/Sponsoring)
-
-- [buymeacoffee](EN/Sponsoring/buymeacoffee.md)
-- [kickstarter](EN/Sponsoring/kickstarter.md)
-- [ko_fi](EN/Sponsoring/ko_fi.md)
-- [open_collective](EN/Sponsoring/open_collective.md)
-- [patreon](EN/Sponsoring/patreon.md)
-- [PayPal](EN/Sponsoring/PayPal.md)
-
+* [buymeacoffee](EN/Sponsoring/buymeacoffee.md)
+* [kickstarter](EN/Sponsoring/kickstarter.md)
+* [ko_fi](EN/Sponsoring/ko_fi.md)
+* [open_collective](EN/Sponsoring/open_collective.md)
+* [patreon](EN/Sponsoring/patreon.md)
+* [PayPal](EN/Sponsoring/PayPal.md)
 ## [System Requirements](EN/System%20Requirements)
-
-- [Hardware_requirements](EN/System%20Requirements/Hardware_requirements.md)
-- [Operating_System](EN/System%20Requirements/Operating_System.md)
+* [Hardware_requirements](EN/System%20Requirements/Hardware_requirements.md)
+* [Operating_System](EN/System%20Requirements/Operating_System.md)
 <!--Templates end-->

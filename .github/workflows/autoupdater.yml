@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Test step
-        run: echo ${{ github.event.head_commit.message }}
       - name: Update Readme
         run: python update_readme.py
       - name: Update templates

@@ -98,7 +98,7 @@ To use any template, you can follow these steps;
 ![](https://github.com/UndefinedToast/README-Templates/blob/main/template_tutorial.gif)
 
 <!--Templates start-->
-# Templates (32 total)
+# Templates (35 total)
 ## [Code Of Conduct](EN/Code%20Of%20Conduct)
 * [CC_COC](EN/Code%20Of%20Conduct/CC_COC.md)
 * [CCoC](EN/Code%20Of%20Conduct/CCoC.md)
@@ -129,6 +129,7 @@ To use any template, you can follow these steps;
 * [code_aboutme](EN/Profile%20readme/code_aboutme.md)
 * [combined_profile](EN/Profile%20readme/combined_profile.md)
 * [generic](EN/Profile%20readme/generic.md)
+* [icons](EN/Profile%20readme/icons.md)
 * [stats](EN/Profile%20readme/stats.md)
 ## [Sponsoring](EN/Sponsoring)
 * [buymeacoffee](EN/Sponsoring/buymeacoffee.md)
@@ -137,4 +138,7 @@ To use any template, you can follow these steps;
 * [open_collective](EN/Sponsoring/open_collective.md)
 * [patreon](EN/Sponsoring/patreon.md)
 * [PayPal](EN/Sponsoring/PayPal.md)
+## [System Requirements](EN/System%20Requirements)
+* [Hardware_requirements](EN/System%20Requirements/Hardware_requirements.md)
+* [Operating_System](EN/System%20Requirements/Operating_System.md)
 <!--Templates end-->

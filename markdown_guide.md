@@ -191,6 +191,12 @@ Task lists also referred to as checklists or todo lists are used to make a list 
 - [x] Commit markdown syntax guide to Github
 - [ ] Eat a pizza
 
+~~~
+- [x] Create task list
+- [x] Commit markdown syntax guide to Github
+- [ ] Eat a pizza
+~~~
+
 # Code
 
 You can use `single backticks` to highlight a piece of code.
